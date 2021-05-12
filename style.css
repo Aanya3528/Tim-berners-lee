@@ -23,6 +23,7 @@ text-align: center;
 	position: relative;
 	text-align: center;
 	vertical-align: middle;
+	width:100%;
 }
 h1{
 	font-size: 40px;
@@ -45,6 +46,7 @@ h2{
 	padding: 50px;
 	text-align: center;
 	font-size: 42px;
+	width:100%;
 }
 .line {
     height: 6px;
@@ -64,6 +66,7 @@ p {
 text-shadow: none !important;
 text-decoration: underline !important;
 color: cadetblue !important;
+width:100%;
 }
 
 #contact{
@@ -78,7 +81,7 @@ text-shadow: none;
 display: inline;
 }
 
-#contact iframe{
+#contact {
 	
 width: 100%;
 	
